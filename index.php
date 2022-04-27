@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <?php echo '<p>Hola Mundo 2</p>'; ?>
+    <?php echo '<p>Hola Mundo 10</p>'; ?>
 </body>
 
 </html>
